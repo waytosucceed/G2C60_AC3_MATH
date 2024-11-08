@@ -1,0 +1,112 @@
+[
+    {
+        "questionNo": "Q1",
+        "question": "Mr. Leo has 12 apples. If he wants to divide them into 3 baskets, how many apples will go in each basket?",
+        "options": [
+            "2",
+            "4",
+            "6",
+            "8"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q2",
+        "question": "Mr. Leo has 10 oranges. If he shares them with 2 children, how many oranges does each child get?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q3",
+        "question": "Mr. Leo bakes 15 cookies. If he puts them into 5 boxes, how many cookies are in each box?",
+        "options": [
+            "2",
+            "3",
+            "5",
+            "7"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q4",
+        "question": "Mr. Leo has 20 pieces of candy. If he gives them to 4 children, how many pieces does each child receive?",
+        "options": [
+            "4",
+            "5",
+            "6",
+            "7"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q5",
+        "question": "Mr. Leo has 36 snack packs. If he divides them into groups of 6, how many groups can he make?",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q6",
+        "question": "There are 24 juice boxes. If 6 students want to share them equally, how many juice boxes does each student get?",
+        "options": [
+            "4",
+            "3",
+            "2",
+            "5"
+        ],
+        "correct": 0
+    },
+    {
+        "questionNo": "Q7",
+        "question": "A group of 32 toy figures is divided among 8 students. How many toy figures does each student receive?",
+        "options": [
+            "3",
+            "4",
+            "5",
+            "6"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q8",
+        "question": "There are 25 basketballs. If 5 students want to share them equally, how many basketballs does each student receive?",
+        "options": [
+            "4",
+            "6",
+            "5",
+            "7"
+        ],
+        "correct": 2
+    },
+    {
+        "questionNo": "Q9",
+        "question": "There are 49 pencils that need to be divided among 7 students. How many pencils does each student receive?",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "9"
+        ],
+        "correct": 1
+    },
+    {
+        "questionNo": "Q10",
+        "question": "Mr. Leo has 45 granola bars. If he wants to pack them into bags of 9, how many bags can he fill?",
+        "options": [
+            "4",
+            "6",
+            "7",
+            "5"
+        ],
+        "correct": 3
+    }
+]
